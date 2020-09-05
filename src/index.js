@@ -1,0 +1,1 @@
+require("./logger").error("Hello, World!")
